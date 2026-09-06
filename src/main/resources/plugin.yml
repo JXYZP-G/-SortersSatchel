@@ -1,0 +1,16 @@
+name: SortersSatchel
+version: ${version}
+main: com.jxyzp.sortersatchel.SortersSatchelPlugin
+api-version: '26.2'
+authors: [JXYZP-G]
+description: Deposit matching inventory items into nearby chests using a crafted Sorter's Satchel.
+commands:
+  sortersatchel:
+    description: Give or open a Sorter's Satchel.
+    usage: /sortersatchel <give|open>
+    permission: sortersatchel.use
+permissions:
+  sortersatchel.use:
+    default: true
+  sortersatchel.admin:
+    default: op
