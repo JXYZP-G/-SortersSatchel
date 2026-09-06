@@ -42,8 +42,6 @@ Craft the satchel, right-click it to open its inventory menu, and press **Deposi
 3. Restart the server.
 4. Craft a Sorter's Satchel.
 
-The old SmarterCopperGolems plugin is not required.
-
 ## Crafting recipe
 
 | Leather | Ender Pearl | Leather |
