@@ -1,0 +1,10 @@
+# Maximum straight-line distance from the player to a destination chest.
+search-radius: 16.0
+
+# Normal inventory and hotbar slots are deposited. Equipment and offhand are never touched.
+include-hotbar: false
+
+messages:
+  deposited: "<green>Deposited <amount> items into <chests> nearby chests."
+  nothing: "<yellow>No inventory items had matching stacks in nearby chests."
+  received: "<green>You received a Sorter's Satchel."
